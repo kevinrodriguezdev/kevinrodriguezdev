@@ -5,10 +5,10 @@ FullStack Develper
 ------------------
 
 *   🌍  I'm based in Valencia
-*   🖥️  See my portfolio at [My portfolio](http://cvkevinrodriguez.vercel.app)
+*   🖥️  See my portfolio at (http://cvkevinrodriguez.vercel.app)
 *   ✉️  You can contact me at [kevinrodriguezdev@gmail.com](mailto:kevinrodriguezdev@gmail.com)
 *   🚀  I'm currently working on [My portfolio](http://cvkevinrodriguez.vercel.app)
-*   🧠  I'm learning React
+*   🧠  I'm learning Astro, React
 *   🤝  I'm open to collaborating on Interesting projects### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -24,7 +24,5 @@ FullStack Develper
 </p>
 <p align="left">
 <a href="https://discord.com/users/pandakontrol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/kevinrodriguezdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/keevin_30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-rodriguez-20b033199/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/kevinrodriguezdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
- <a href="https://www.twitch.tv/xpandakontrol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevinrodriguezdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
