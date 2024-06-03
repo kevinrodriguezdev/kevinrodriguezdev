@@ -5,9 +5,9 @@ FullStack Develper
 ------------------
 
 *   🌍  I'm based in Valencia
-*   🖥️  See my portfolio at (http://cvkevinrodriguez.vercel.app)
+*   🖥️  See my portfolio at (https://kevinrodriguezdev.vercel.app)
 *   ✉️  You can contact me at [kevinrodriguezdev@gmail.com](mailto:kevinrodriguezdev@gmail.com)
-*   🚀  I'm currently working on [My portfolio](http://kevinrodriguezdev.vercel.app)
+*   🚀  I'm currently working on [Prueba de acceso](https://pruebadeacceso.vercel.app)
 *   🧠  I'm learning Astro, React
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
